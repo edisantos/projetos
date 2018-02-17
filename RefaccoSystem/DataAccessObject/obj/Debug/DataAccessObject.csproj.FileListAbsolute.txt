@@ -1,0 +1,12 @@
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\DataAccessObject\bin\Debug\DataAccessObject.dll
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\DataAccessObject\bin\Debug\DataAccessObject.pdb
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\DataAccessObject\obj\Debug\DataAccessObject.dll
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\DataAccessObject\obj\Debug\DataAccessObject.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\obj\Debug\DataAccessObject.csprojResolveAssemblyReference.cache
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\obj\Debug\DataAccessObject.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\obj\Debug\DataAccessObject.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\bin\Debug\DataAccessObject.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\bin\Debug\DataAccessObject.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\bin\Debug\DataAccessObject.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DataAccessObject\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb

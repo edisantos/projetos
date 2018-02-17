@@ -1,0 +1,355 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+
+@import url('https://fonts.googleapis.com/css?family=Geo|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Geo|Open+Sans+Condensed:300|Roboto');
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    
+}
+h2{margin-left:15%;}
+h3{text-align:center;padding-top:5%;}
+#controles {
+    width: 70%;
+    margin-left:15%;
+    height: 600px;
+    background-color:#DCDCDC;
+    border-radius: 20px;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#controles img{
+    width:15%;
+}
+.cabecalho {
+    width: 100%;
+    height: 20px;
+    background-color: #0000FF;
+    
+}
+#logo{
+    width:40%;
+    margin-left:5%;
+    position:absolute;
+}
+#logo p{
+    color:#ffffff;
+}
+.formulario {
+    height: 600px;
+    background-color: #DCDCDC;
+    border-radius:10px;
+    margin-top: 5%;
+}
+.formulario h2{
+    text-align:center;
+    padding-top:2%;
+}
+#tagCn {
+    width: 80%;
+    height: 100px;
+    background-color: #87CEEB;
+    margin-left: 10%;
+    padding-top: 2%;
+    border-radius:10px 10px 0px 0px;
+}
+#banner{
+    width:100%;
+    min-height:1600px;
+    margin-top:5%;
+   
+}
+.menu {
+    background-color: #87CEEB;
+    
+}
+.menu li{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#ConteinerProcessRepair {
+    width:70%;
+   margin-left:15%;
+}
+
+#continerCn {
+    background-color: #B0E0E6;
+    height: 80px;
+    width: 100%;
+    padding-top: 2%;
+    padding-left: 5%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+footer{
+    text-align:center;
+   
+}
+.grd th {
+    background-color: #DCDCDC;
+    
+}
+
+.Conteudo{
+    width:70%;
+    margin-left:15%;
+}
+.ConteinerPesquisa h4 {
+    margin-left: 10%;
+    margin-top: 5%;
+    text-shadow: 0px 0px 0px 6px #808080;
+    color: #DCDCDC;
+}
+#boxPesquisa {
+    margin-top: 1%;
+    width: 80%;
+    margin-left: 10%;
+    background-color: #87CEEB;
+    height:60px;
+    border-radius:10px 10px 0px 0px;
+    padding-top:1%;
+}
+#Grvpesquisa{
+    margin-top:1%;
+    width:80%;
+    margin-left:10%;
+
+}
+
+#boxAnotacao {
+    margin-top:5%;
+    margin-left:10%;
+}
+
+
+
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    /*padding-left: 0px;
+    padding-right: 0px;*/
+    width: 100%;
+}
+.body-content h3{
+    text-align:center;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="select"] {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}
+
+/*Configuração da pagina de novos usuarios*/
+.ContainerNovoUsuario{
+    width:60em;
+    margin-left:10em;
+}
+#conteinerLogin{
+    background-image:url(../Img/backgroudRefacco.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:100vw;
+    height:100vh;
+    margin:0;
+   
+}
+.formLogin{
+    margin-left:40%;
+    margin-top:10vh;
+    width:500px;
+    background-color:rgba(0,0,0,.4);
+    border-radius:10px;
+    min-height:350px;
+    padding-left:2%;
+    position:fixed;
+}
+.formLogin h4{
+    color:#fff;
+    text-align:center;
+    padding-top:2%;
+    padding-right:2%;
+}
+.formLogin label{
+    color:#fff;
+}
+#tituloLogin{
+   
+    width:300px;
+    margin-left:15%;
+    margin-top:5%;
+    position:absolute;
+    
+}
+#tituloLogin h1 {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Geo', sans-serif;
+    font-size:4em;
+    text-shadow:5px 0.10px 10px 10px rgba(0,0,0,.4);
+}
+#tituloLogin p {
+    
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Geo', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:1.5em;
+}
+
+#ChartConteiner{
+    width:60%;
+    height:40vh;
+    margin-left:20%;
+    margin-top:5%;
+}
+#conteiner{
+    width:100%;
+    height:100vh;
+}
+/*Area dos graficos*/
+#chart1{
+    width:40vw;
+    height:40vh;
+    
+    float:left;
+    margin-left:5%;
+}
+#chart2 {
+    width: 40vw;
+    height: 40vh;
+   
+    position:relative;
+    float:left;
+    margin-left:2%;
+}
+#chart3 {
+    width: 40vw;
+    height: 40vh;
+    
+    position: relative;
+    float: left;
+    margin-left: 5%;
+}
+#chart4 {
+    width: 40vw;
+    height: 40vh;
+    position: relative;
+    float: left;
+    margin-left: 2%;
+}
+.dashboard h1{
+    text-align:center;
+    margin-bottom:2%;
+    color:rgba(0,0,0,.4);
+}
+#conteinerGeralChart{
+    width:90vw;
+    margin-left:auto;
+    margin-right:auto;
+    height:160vh;
+
+}
+#conteinerGeralChart h1 {
+   text-align:center;
+   margin-top:2%;
+   color:#808080;
+}
+/*Configuração do grid da pagina RegisterBoard*/
+#GridRigisterBoard{
+    width:70vw;
+    margin-left:15vw;
+    margin-top:2vw;
+}
+.gdv th{
+    
+    background-color:#0094ff;
+    color:#808080;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.2em;
+}
+.gdv tr{
+    text-align:center;
+}
+#GridRigisterBoard h2 {
+    text-align: center;
+    margin-bottom:2vw;
+    color:#808080;
+}
+#boxButton{
+    margin-bottom:2%;
+}
+
+#GridParaReparo{
+    width:60%;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:3%;
+}
+#GridParaReparo h3 {
+        text-align: center;
+        margin-top:2%;
+        color:#808080;
+    }
+
+.ContainerRepairMan{
+    width:70vw;
+    margin-left:15vw;
+}
+
+/*Setting Search Main*/
+#containerSearchMAIN {
+    width:100vw;
+    min-height:100vw;
+}
+
+#menuSearch {
+    width: 20vw;
+    min-height: 40vw;
+    background-color: #F0F8FF;
+    border: 1px solid #808080;
+    margin: auto;
+    float: left;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+#menuSearch p{
+    font-size:2vw;
+    text-align:center;
+}
+#conteudoSearch {
+    width: 70vw;
+    min-height: 100vw;
+    float: left;
+    margin-top: 2%;
+    margin-left:2%;
+    margin-right:2%;
+    
+}
+#Formdate{
+    width:15vw;
+    margin-left:2vw;
+}

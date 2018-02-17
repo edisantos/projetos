@@ -1,0 +1,10 @@
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\DAL\bin\Release\DAL.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\DAL\bin\Release\DAL.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\DAL\obj\Release\DAL.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\DAL\obj\Release\DAL.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DAL\bin\Release\DAL.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DAL\bin\Release\DAL.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DAL\obj\Release\DAL.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\DAL\obj\Release\DAL.pdb

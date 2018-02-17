@@ -1,0 +1,199 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ListaParaReparoOQC.aspx.cs" Inherits="RefaccoSystem.Refacco.ListaParaReparo.ListaParaReparoOQC" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <div id="ConteinerListaParaReparo">
+        <div class="informationUser">
+
+
+            <h3 id="Logado" runat="server" style="color: #808080"></h3>
+
+
+        </div>
+        <div id="GridParaReparo">
+            <p class="text-danger">
+                <asp:Literal ID="ErrorMessage" runat="server"></asp:Literal>
+            </p>
+
+            <asp:UpdatePanel ID="UpdatePanel4" runat="server">
+                <ContentTemplate>
+                    <asp:GridView ID="GridView1" runat="server" CssClass="table table-striped gdv" AutoGenerateColumns="false">
+                        <Columns>
+
+                            <asp:TemplateField HeaderText="Id">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblId" runat="server" Text='<%#Eval("EntradaId") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Data">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblData" runat="server" Text='<%#Eval("Data","{0:yyyy/MM/dd}") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Modelo">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblModelo" runat="server" Text='<%#Eval("Model") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Sintomas">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblSintomas" runat="server" Text='<%#Eval("Sintomas") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="C/N">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblSeria" runat="server" Text='<%#Eval("CN") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <%--<asp:TemplateField HeaderText="Action RepairMan">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblActionRepairMan" runat="server" Text='<%#Eval("ActionRepair") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>--%>
+                            <asp:TemplateField HeaderText="Status">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblStatusFinal" runat="server" Text='<%#Eval("StatusFinal") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField>
+                                <ItemTemplate>
+                                    <asp:LinkButton ID="btnRegister" runat="server" CssClass="btn btn-primary" OnClick="btnRegister_Click">
+                               <span class="glyphicon glyphicon-floppy-saved"> Action</span>
+                                    </asp:LinkButton>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                        </Columns>
+                    </asp:GridView>
+
+                </ContentTemplate>
+            </asp:UpdatePanel>
+
+        </div>
+        <div id="modalListaDeReparo">
+
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title" id="myModalLabel">Formulário de Reparo</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel5" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Label ID="lblCodigo" runat="server" Visible="false"></asp:Label>
+                                        <asp:Label ID="lblStatusFinal" runat="server" Visible="false"></asp:Label>
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel7" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Panel ID="Panel1" runat="server">
+                                            <label for="un">UN:</label>
+                                            <asp:TextBox ID="txtUn" runat="server" CssClass="form-control"></asp:TextBox>
+                                        </asp:Panel>
+
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel8" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Panel ID="Panel2" runat="server">
+                                            <label for="un">Defect Cause:</label>
+                                            <asp:DropDownList ID="ddlDefectCause" runat="server" CssClass="form-control"></asp:DropDownList>
+                                        </asp:Panel>
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Panel ID="Panel4" runat="server">
+                                            <label for="un">Location:</label>
+                                            <asp:DropDownList ID="ddlLocation" runat="server" CssClass="form-control" OnTextChanged="ddlLocation_TextChanged"></asp:DropDownList>
+                                        </asp:Panel>
+
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Panel ID="Panel5" runat="server">
+                                            <label for="un">Part-Number:</label>
+                                            <asp:TextBox ID="txtPartNumber" Enabled="false" runat="server" CssClass="form-control"></asp:TextBox>
+                                        </asp:Panel>
+
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel9" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Panel ID="Panel3" runat="server">
+                                            <label for="un">Lot:</label>
+                                            <asp:TextBox ID="txtLote" runat="server" CssClass="form-control"></asp:TextBox>
+                                        </asp:Panel>
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel10" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Panel ID="Panel6" runat="server">
+                                            <label for="un">Action:</label>
+                                            <asp:DropDownList ID="ddlAction" runat="server" CssClass="form-control"></asp:DropDownList>
+                                        </asp:Panel>
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel3" runat="server">
+                                    <ContentTemplate>
+                                        <label for="status">Status:</label>
+                                        <asp:DropDownList ID="ddlStatus" runat="server" CssClass="form-control" OnTextChanged="ddlStatus_TextChanged" AutoPostBack="true">
+                                            <asp:ListItem Text="SELECT STATUS" Value="0"></asp:ListItem>
+                                            <asp:ListItem Text="PASS" Value="1"></asp:ListItem>
+                                            <asp:ListItem Text="SCRAP" Value="2"></asp:ListItem>
+                                            <asp:ListItem Text="FEEDBACK" Value="3"></asp:ListItem>
+                                            <asp:ListItem Text="TRANSFER TO REPAIR" Value="4"></asp:ListItem>
+                                        </asp:DropDownList>
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+                            </div>
+                            <div class="form-group">
+                                <asp:UpdatePanel ID="UpdatePanel6" runat="server">
+                                    <ContentTemplate>
+                                        <label for="un">Send Repair:</label>
+                                        <asp:DropDownList ID="ddlSendRepair" runat="server" CssClass="form-control">
+                                        </asp:DropDownList>
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <asp:LinkButton ID="btnSalvar" runat="server" class="btn btn-success" OnClick="btnSalvar_Click">
+                                 <span class="glyphicon glyphicon-pencil"> Register</span>
+                            </asp:LinkButton>
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function openModal() {
+            $('#myModal').modal('show');
+        }
+    </script>
+</asp:Content>

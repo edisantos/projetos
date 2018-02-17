@@ -1,0 +1,225 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="RefaccoSystem.Refacco.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="pt">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Refacco System</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script src="Scripts/wow.min.js"></script>
+    
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--Para saber mais sobre scripts de agrupamento no ScriptManager, consulte https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Scripts do Framework--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Scripts do Site--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-default navbar-fixed-top menu">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Refacco System</a>
+
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a class="glyphicon glyphicon-home" runat="server" href="/refacco/Reports/DashboardOverview.aspx"></a></li>
+                        <%-- Inicio do Menu MAIN --%>
+                        <asp:LoginView ID="LoginViewMainPredioB" runat="server">
+                            <RoleGroups>
+                                <asp:RoleGroup Roles="MAIN">
+                                    <ContentTemplate>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MAIN<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-header"></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/MAIN/ProcessRepair/ProcessRepair.aspx">REGISTRO REPARO</a></li>
+                                                 <li role="separator" class="divider"></li>
+                                                 <li class="dropdown-header"></li>
+                                                 <li><a href="/refacco/PREDIO A/MAIN/SEARCH/SearchMain.aspx">STATUS</a></li>
+                                            </ul>
+                                        </li>
+                                    </ContentTemplate>
+                                </asp:RoleGroup>
+                            </RoleGroups>
+                        </asp:LoginView>
+                        <%--Fim --%>
+
+                        <%-- Inicio do Menu SMD --%>
+                        <asp:LoginView ID="LoginViewSMDPredioB" runat="server">
+                            <RoleGroups>
+                                <asp:RoleGroup Roles="SMD">
+                                    <ContentTemplate>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SMD <span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-header"></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/SMD/EntradaSMD/EntradaSMD.aspx">REGISTRO REPARO</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/SMD/RegisterBoardPlusTec/RegisterBoardPlusTec.aspx">TEC + PLACA</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/SMD/Reparo/ReparoSMD.aspx">SMD REPARO</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/SMD/AnalysisRepair/AnalysisRepair.aspx">ANALISE REPARADORA</a></li>
+                                            </ul>
+                                        </li>
+                                    </ContentTemplate>
+                                </asp:RoleGroup>
+                            </RoleGroups>
+                        </asp:LoginView>
+                        <%--Fim --%>
+
+                        <%-- Inicio do Menu OQC --%>
+
+                        <asp:LoginView ID="LoginViewOQCPredioB" runat="server">
+                            <RoleGroups>
+                                <asp:RoleGroup Roles="CQP">
+                                    <ContentTemplate>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CQP<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-header"></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/CQP/RegisterBoard/RegisterBoard.aspx">TEC + PLACA</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/CQP/ListaParaReparo/ListaParaReparoOQC.aspx">CQP REPARO</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/CQP/AnaliseReparadora/AnalysisRepairMan.aspx">ANALISE REPARADORA</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/CQP/ProcessoFinalizado/ProcessoTerminate.aspx">PROCESSO TERMINATE</a></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO A/CQP/TerminatePBA/TerminatePBA.aspx">TERMINATE PBA</a></li>
+                                            </ul>
+                                        </li>
+                                    </ContentTemplate>
+                                </asp:RoleGroup>
+                            </RoleGroups>
+                        </asp:LoginView>
+                        <%--Fim --%>
+
+                         <asp:LoginView ID="loginViewNPCMain" runat="server">
+                            <RoleGroups>
+                                <asp:RoleGroup Roles="MAINNPC">
+                                    <ContentTemplate>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">NPC MAIN<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-header"></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO B/MAINNPC/MainNPCRegister.aspx">REGISTRO REPARO</a></li>
+                                                 <li role="separator" class="divider"></li>
+                                                 <li class="dropdown-header">SEARCH MAIN</li>
+                                                 <li><a href="/refacco/PREDIO A/MAIN/SEARCH/SearchMain.aspx">STATUS</a></li>
+                                            </ul>
+                                        </li>
+                                    </ContentTemplate>
+                                </asp:RoleGroup>
+                            </RoleGroups>
+                        </asp:LoginView>
+
+                         <asp:LoginView ID="LoginViewReparoNPC" runat="server">
+                            <RoleGroups>
+                                <asp:RoleGroup Roles="REPAIRNPC">
+                                    <ContentTemplate>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">NPC REPAIR<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-header"></li>
+                                                <li role="separator" class="divider"></li>
+                                                <li><a href="/refacco/PREDIO B/REPAIRNPC/RepairTecPlusBoardNPC.aspx">TEC + PLACA</a></li>
+                                                 <li role="separator" class="divider"></li>
+                                                 <li><a href="/refacco/PREDIO B/REPAIR/RepairNPC.aspx">NPC REPERO</a></li>
+                                                 <li role="separator" class="divider"></li>
+                                                 <li><a href="/refacco/PREDIO B/REPAIRMAN/RepairMan.aspx">NPC REPARADOR</a></li>
+                                            </ul>
+                                        </li>
+                                    </ContentTemplate>
+                                </asp:RoleGroup>
+                            </RoleGroups>
+                        </asp:LoginView>
+                        <%-- Inicio do Menu ADMIN --%>
+                        <asp:LoginView ID="LoginViewAdim" runat="server">
+                            <RoleGroups>
+                                <asp:RoleGroup Roles="ADMIN">
+                                   <ContentTemplate>
+                                     <li><a class="glyphicon glyphicon-user" href="/refacco/Admin/Admin.aspx"></a></li>
+                                   </ContentTemplate>
+                                </asp:RoleGroup>
+                            </RoleGroups>
+                        </asp:LoginView>
+                       <%--Fim --%>
+                    </ul>
+
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <%--  <li><a runat="server" href="~/Account/Login.aspx">Entrar</a></li>--%>
+                                <li><a runat="server" href="/Refacco/Default.aspx">Sair</a></li>
+
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Account/Manage" title="Gerenciar sua conta">Bem vindo, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Sair" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+        </div>
+        <div class="cabecalho">
+            <div id="logo">
+
+                <p>Sistema de Gerenciamento e Controle de Reparos</p>
+            </div>
+        </div>
+        <%--<div class="container body-content">--%>
+        <div class="body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>
+                    &copy; <%: DateTime.Now.Year %> - Refacco System - Developed by: Edinaldo Santos - Innovation Parts
+                    <span class="glyphicon glyphicon-earphone"> Ramal:2317</span>
+                </p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

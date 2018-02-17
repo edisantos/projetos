@@ -1,0 +1,22 @@
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Release\BLL.EntradaBusiness.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Release\BLL.EntradaBusiness.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DAL.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DataAccessObject.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DAL.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DataAccessObject.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\obj\Release\BLL.EntradaBusiness.csprojResolveAssemblyReference.cache
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\obj\Release\BLL.EntradaBusiness.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\obj\Release\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\BLL.EntradaBusiness.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DAL.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DataAccessObject.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DAL.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DataAccessObject.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\obj\Release\BLL.EntradaBusiness.csprojResolveAssemblyReference.cache
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\obj\Release\BLL.EntradaBusiness.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\obj\Release\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\BLL.EntradaBusiness.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\DataAccessObject.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Release\FirebirdSql.Data.FirebirdClient.pdb

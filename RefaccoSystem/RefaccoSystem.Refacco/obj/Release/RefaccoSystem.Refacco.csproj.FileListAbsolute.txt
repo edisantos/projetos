@@ -1,0 +1,244 @@
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\ApplicationInsights.config
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csc.exe
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csc.exe.config
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csc.rsp
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csi.exe
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csi.rsp
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.AppContext.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\vbc.exe
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\vbc.exe.config
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\vbc.rsp
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\VBCSCompiler.exe
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\RefaccoSystem.Refacco.dll.config
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\RefaccoSystem.Refacco.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\RefaccoSystem.Refacco.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Antlr3.Runtime.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\BLL.EntradaBusiness.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\DAL.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\DataAccessObject.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.SqlServer.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.Web.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ApplicationInsights.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Newtonsoft.Json.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Owin.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Net.Http.Formatting.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.WebHost.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Optimization.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Providers.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\WebGrease.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\BLL.EntradaBusiness.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\DAL.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\DataAccessObject.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Optimization.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Antlr3.Runtime.pdb
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Newtonsoft.Json.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Net.Http.Formatting.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.WebHost.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.SqlServer.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Providers.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ApplicationInsights.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.Web.xml
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\obj\Release\RefaccoSystem.Refacco.csprojResolveAssemblyReference.cache
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\obj\Release\RefaccoSystem.Refacco.dll
+C:\Users\edi.santos\Documents\Visual Studio 2017\Projects\RefaccoSystem\RefaccoSystem.Refacco\obj\Release\RefaccoSystem.Refacco.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\ApplicationInsights.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csc.exe
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csc.exe.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csc.rsp
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csi.exe
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\csi.rsp
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.AppContext.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.Collections.Immutable.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.IO.FileSystem.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\System.Reflection.Metadata.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\vbc.exe
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\vbc.exe.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\vbc.rsp
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\VBCSCompiler.exe
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\roslyn\VBCSCompiler.exe.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\RefaccoSystem.Refacco.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\RefaccoSystem.Refacco.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\RefaccoSystem.Refacco.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Antlr3.Runtime.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\AspNet.ScriptManager.bootstrap.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\AspNet.ScriptManager.jQuery.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\BLL.EntradaBusiness.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\DAL.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\DataAccessObject.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.SqlServer.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.Agent.Intercept.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.DependencyCollector.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.PerfCounterCollector.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.ServerTelemetryChannel.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.Web.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.WindowsServer.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ApplicationInsights.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.FriendlyUrls.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Core.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Owin.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Host.SystemWeb.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Cookies.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Facebook.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Google.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.OAuth.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Twitter.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ScriptManager.MSAjax.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ScriptManager.WebForms.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Web.Infrastructure.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Newtonsoft.Json.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Owin.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Net.Http.Formatting.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.WebHost.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Optimization.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Providers.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\WebGrease.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\DAL.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\DataAccessObject.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Optimization.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Antlr3.Runtime.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.FriendlyUrls.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Newtonsoft.Json.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Net.Http.Formatting.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Http.WebHost.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\EntityFramework.SqlServer.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Core.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.Owin.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\System.Web.Providers.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Host.SystemWeb.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Facebook.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Cookies.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Google.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.Twitter.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.Owin.Security.OAuth.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.ApplicationInsights.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.DependencyCollector.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.ServerTelemetryChannel.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.WindowsServer.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\Microsoft.AI.Web.xml
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Web.Optimization.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Net.Http.Formatting.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Web.Http.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\System.Web.Http.WebHost.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Host.SystemWeb.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.Facebook.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.Google.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.Twitter.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\pt-br\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\obj\Release\RefaccoSystem.Refacco.csprojResolveAssemblyReference.cache
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\obj\Release\RefaccoSystem.Refacco.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\obj\Release\RefaccoSystem.Refacco.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\FirebirdSql.Data.FirebirdClient.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\BLL.EntradaBusiness.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\DataAccessObject.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\RefaccoSystem.Refacco\bin\FirebirdSql.Data.FirebirdClient.pdb

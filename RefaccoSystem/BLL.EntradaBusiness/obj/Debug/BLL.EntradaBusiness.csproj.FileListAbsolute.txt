@@ -1,0 +1,22 @@
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\BLL.EntradaBusiness.dll
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\BLL.EntradaBusiness.pdb
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DAL.dll
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DataAccessObject.dll
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DAL.pdb
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DataAccessObject.pdb
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\obj\Debug\BLL.EntradaBusiness.csprojResolveAssemblyReference.cache
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\obj\Debug\BLL.EntradaBusiness.dll
+c:\users\edi.santos\documents\visual studio 2017\Projects\RefaccoSystem\BLL.EntradaBusiness\obj\Debug\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\BLL.EntradaBusiness.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DAL.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DataAccessObject.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DAL.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DataAccessObject.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\obj\Debug\BLL.EntradaBusiness.csprojResolveAssemblyReference.cache
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\obj\Debug\BLL.EntradaBusiness.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\obj\Debug\BLL.EntradaBusiness.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\DataAccessObject.dll.config
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+S:\16.REFACCO  - REPAIR FACTORY CONTROL\RefaccoSystem\BLL.EntradaBusiness\bin\Debug\BLL.EntradaBusiness.dll.config
